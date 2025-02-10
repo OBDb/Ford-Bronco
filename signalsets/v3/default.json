@@ -22,6 +22,14 @@
 { "hdr": "726", "rax": "72E", "cmd": {"22": "2818"}, "freq": 5,
   "signals": [
     {"id": "BRONCO_TP_RLI", "path": "Tires", "fmt": { "len": 16, "max": 3276, "div": 20, "unit": "psi" }, "name": "Rear left inner tire pressure"}
+  ]},
+{ "hdr": "7DF", "dbg": true, "cmd": {"22": "1310"}, "freq": 30,
+  "signals": [
+    {"id": "BRONCO_EOT", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Engine oil temperature"}
+  ]},
+{ "hdr": "7DF", "dbg": true, "cmd": {"22": "1E12"}, "freq": 30,
+  "signals": [
+    {"id": "BRONCO_GEAR", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Gear", "description": "The automatic transmission gear. Numbers aren't yet mapped to named gears."}
   ]}
 ]
 }
