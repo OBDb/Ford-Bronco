@@ -1,4 +1,8 @@
 { "commands": [
+{ "hdr": "720", "rax": "728", "dbg": true, "cmd": {"22": "404C"}, "freq": 30,
+  "signals": [
+    {"id": "BRONCO_ODO", "path": "Trips", "fmt": { "len": 24, "max": 1677721, "div": 10, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
+  ]},
 { "hdr": "726", "rax": "72E", "cmd": {"22": "2813"}, "freq": 5,
   "signals": [
     {"id": "BRONCO_TP_FL", "path": "Tires", "fmt": { "len": 16, "max": 3276, "div": 20, "unit": "psi" }, "name": "Front left tire pressure", "suggestedMetric": "frontLeftTirePressure"}
@@ -29,7 +33,23 @@
   ]},
 { "hdr": "7DF", "dbg": true, "cmd": {"22": "1E12"}, "freq": 30,
   "signals": [
-    {"id": "BRONCO_GEAR", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Gear", "description": "The automatic transmission gear. Numbers aren't yet mapped to named gears."}
+    {"id": "BRONCO_GEAR", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Current gear", "description": "The automatic transmission gear. Numbers aren't yet mapped to named gears."}
+  ]},
+{ "hdr": "7DF", "dbg": true, "cmd": {"22": "1E1C"}, "freq": 30,
+  "signals": [
+    {"id": "BRONCO_TOT", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Transmission oil temperature"}
+  ]},
+{ "hdr": "7DF", "dbg": true, "cmd": {"22": "1E23"}, "freq": 30,
+  "signals": [
+    {"id": "BRONCO_GEAR_SHFT", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Shift gear"}
+  ]},
+{ "hdr": "7DF", "dbg": true, "cmd": {"22": "F42F"}, "freq": 30,
+  "signals": [
+    {"id": "BRONCO_FLI", "path": "Fuel", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Fuel level (alternative)"}
+  ]},
+{ "hdr": "7DF", "dbg": true, "cmd": {"22": "F45C"}, "freq": 30,
+  "signals": [
+    {"id": "BRONCO_EOP", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Engine oil pressure"}
   ]}
 ]
 }
