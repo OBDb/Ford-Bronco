@@ -12,19 +12,26 @@ from schemas.python.signals_testing import obd_testrunner
 REPO_ROOT = Path(__file__).parent.parent.absolute()
 
 TEST_CASES = [
-    # TODO: Implement real tests below with vehicle data.
-    # 2019 model year
     {
-        "model_year": "2019",
+        "model_year": "2022",
         "signalset": "default.json",
         "tests": [
-            # # Tire pressures
-            # ("72E05622813028C", {"F150_TP_FL": 32.6}),
-            # ("72E056228140273", {"F150_TP_FR": 31.35}),
-            # ("72E056228150291", {"F150_TP_RRO": 32.85}),
-            # ("72E05622816026E", {"F150_TP_RLO": 31.1}),
-            # ("72E056228170000", {"F150_TP_RRI": 0.0}),
-            # ("72E056228180000", {"F150_TP_RLI": 0.0}),
+            ("7E804621E1201", {"BRONCO_GEAR": "1"}),
+            ("7E804621E1202", {"BRONCO_GEAR": "2"}),
+            ("7E804621E1203", {"BRONCO_GEAR": "3"}),
+            ("7E804621E1204", {"BRONCO_GEAR": "4"}),
+            ("7E804621E1205", {"BRONCO_GEAR": "5"}),
+            ("7E804621E1206", {"BRONCO_GEAR": "6"}),
+            ("7E804621E1207", {"BRONCO_GEAR": "7"}),
+            ("7E804621E1208", {"BRONCO_GEAR": "8"}),
+            ("7E804621E1209", {"BRONCO_GEAR": "9"}),
+            ("7E804621E120A", {"BRONCO_GEAR": "10"}),
+            ("7E804621E123C", {"BRONCO_GEAR": None}),  # TODO: Meaning unknown, need to test in car
+            ("7E804621E1246", {"BRONCO_GEAR": None}),  # TODO: Meaning unknown, need to test in car
+
+            ("7E804621E2364", {"BRONCO_GEAR_SHFT": None}),  # TODO: Meaning unknown, need to test in car
+            ("7E804621E2365", {"BRONCO_GEAR_SHFT": None}),  # TODO: Meaning unknown, need to test in car
+            ("7E804621E2367", {"BRONCO_GEAR_SHFT": None}),  # TODO: Meaning unknown, need to test in car
         ]
     },
 ]
