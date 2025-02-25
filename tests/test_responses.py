@@ -32,6 +32,13 @@ TEST_CASES = [
             ("7E804621E2364", {"BRONCO_GEAR_SHFT": None}),  # TODO: Meaning unknown, need to test in car
             ("7E804621E2365", {"BRONCO_GEAR_SHFT": None}),  # TODO: Meaning unknown, need to test in car
             ("7E804621E2367", {"BRONCO_GEAR_SHFT": None}),  # TODO: Meaning unknown, need to test in car
+
+            ("7E805621E1CFFFF", {"BRONCO_TOT": -0.0625}),
+            ("7E805621E1C000E", {"BRONCO_TOT": 0.875}),
+            ("7E805621E1C02A4", {"BRONCO_TOT": 42.25}),
+
+            ("7E80462F42F1A", {"BRONCO_FLI": 10.196078431372548}),
+            ("7E80462F42FFE", {"BRONCO_FLI": 99.6078431372549}),
         ]
     },
 ]
