@@ -1,0 +1,118 @@
+command_id: 7E0.7E8.22F42F
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E80462F42F1A
+  expected_values:
+    BRONCO_FLI: 10.19608
+- response: 7E80462F42F57
+  expected_values:
+    BRONCO_FLI: 34.11765
+- response: 7E80462F42F5F
+  expected_values:
+    BRONCO_FLI: 37.2549
+- response: 7E80462F42F71
+  expected_values:
+    BRONCO_FLI: 44.31373
+- response: 7E80462F42F76
+  expected_values:
+    BRONCO_FLI: 46.27451
+- response: 7E80462F42F77
+  expected_values:
+    BRONCO_FLI: 46.66667
+- response: 7E80462F42F7E
+  expected_values:
+    BRONCO_FLI: 49.41176
+- response: 7E80462F42F7F
+  expected_values:
+    BRONCO_FLI: 49.80392
+- response: 7E80462F42F85
+  expected_values:
+    BRONCO_FLI: 52.15686
+- response: 7E80462F42F8A
+  expected_values:
+    BRONCO_FLI: 54.11765
+- response: 7E80462F42F8C
+  expected_values:
+    BRONCO_FLI: 54.90196
+- response: 7E80462F42F93
+  expected_values:
+    BRONCO_FLI: 57.64706
+- response: 7E80462F42F94
+  expected_values:
+    BRONCO_FLI: 58.03922
+- response: 7E80462F42F9A
+  expected_values:
+    BRONCO_FLI: 60.39216
+- response: 7E80462F42F9B
+  expected_values:
+    BRONCO_FLI: 60.78431
+- response: 7E80462F42F9D
+  expected_values:
+    BRONCO_FLI: 61.56863
+- response: 7E80462F42FA0
+  expected_values:
+    BRONCO_FLI: 62.7451
+- response: 7E80462F42FA1
+  expected_values:
+    BRONCO_FLI: 63.13725
+- response: 7E80462F42FA7
+  expected_values:
+    BRONCO_FLI: 65.4902
+- response: 7E80462F42FA8
+  expected_values:
+    BRONCO_FLI: 65.88235
+- response: 7E80462F42FAE
+  expected_values:
+    BRONCO_FLI: 68.23529
+- response: 7E80462F42FAF
+  expected_values:
+    BRONCO_FLI: 68.62745
+- response: 7E80462F42FB6
+  expected_values:
+    BRONCO_FLI: 71.37255
+- response: 7E80462F42FBD
+  expected_values:
+    BRONCO_FLI: 74.11765
+- response: 7E80462F42FBF
+  expected_values:
+    BRONCO_FLI: 74.90196
+- response: 7E80462F42FC1
+  expected_values:
+    BRONCO_FLI: 75.68627
+- response: 7E80462F42FC2
+  expected_values:
+    BRONCO_FLI: 76.07843
+- response: 7E80462F42FC6
+  expected_values:
+    BRONCO_FLI: 77.64706
+- response: 7E80462F42FCC
+  expected_values:
+    BRONCO_FLI: 80
+- response: 7E80462F42FD3
+  expected_values:
+    BRONCO_FLI: 82.7451
+- response: 7E80462F42FD9
+  expected_values:
+    BRONCO_FLI: 85.09804
+- response: 7E80462F42FDA
+  expected_values:
+    BRONCO_FLI: 85.4902
+- response: 7E80462F42FE1
+  expected_values:
+    BRONCO_FLI: 88.23529
+- response: 7E80462F42FE9
+  expected_values:
+    BRONCO_FLI: 91.37255
+- response: 7E80462F42FF1
+  expected_values:
+    BRONCO_FLI: 94.5098
+- response: 7E80462F42FF2
+  expected_values:
+    BRONCO_FLI: 94.90196
+- response: 7E80462F42FFA
+  expected_values:
+    BRONCO_FLI: 98.03922
+- response: 7E80462F42FFE
+  expected_values:
+    BRONCO_FLI: 99.60784
