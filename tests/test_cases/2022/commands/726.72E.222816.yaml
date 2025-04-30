@@ -1,0 +1,49 @@
+command_id: 726.72E.222816
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 72E0562281602A6
+  expected_values:
+    BRONCO_TP_RLO: 33.9
+- response: 72E0562281602A9
+  expected_values:
+    BRONCO_TP_RLO: 34.05
+- response: 72E0562281602BB
+  expected_values:
+    BRONCO_TP_RLO: 34.95
+- response: 72E0562281602BD
+  expected_values:
+    BRONCO_TP_RLO: 35.05
+- response: 72E0562281602C0
+  expected_values:
+    BRONCO_TP_RLO: 35.2
+- response: 72E0562281602C5
+  expected_values:
+    BRONCO_TP_RLO: 35.45
+- response: 72E0562281602C7
+  expected_values:
+    BRONCO_TP_RLO: 35.55
+- response: 72E0562281602CA
+  expected_values:
+    BRONCO_TP_RLO: 35.7
+- response: 72E0562281602CC
+  expected_values:
+    BRONCO_TP_RLO: 35.8
+- response: 72E0562281602CF
+  expected_values:
+    BRONCO_TP_RLO: 35.95
+- response: 72E0562281602D4
+  expected_values:
+    BRONCO_TP_RLO: 36.2
+- response: 72E0562281602D6
+  expected_values:
+    BRONCO_TP_RLO: 36.3
+- response: 72E0562281602D9
+  expected_values:
+    BRONCO_TP_RLO: 36.45
+- response: 72E0562281602DB
+  expected_values:
+    BRONCO_TP_RLO: 36.55
+- response: 72E0562281602E0
+  expected_values:
+    BRONCO_TP_RLO: 36.8
