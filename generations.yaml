@@ -1,0 +1,30 @@
+generations:
+  - name: "First Generation"
+    start_year: 1966
+    end_year: 1977
+    description: "The original Ford Bronco was designed as a compact off-road vehicle to compete with the Jeep CJ and International Harvester Scout. Available in wagon, pickup, and roadster body styles (though the roadster was discontinued after 1968), it featured a boxy, functional design with short overhangs for off-road capability. Initially powered by a 170 cubic-inch inline-six engine, a 289 cubic-inch V8 was added in 1967, followed by larger V8 options in later years. The first-generation Bronco featured a unique suspension system with a coil spring front axle, providing better off-road articulation and on-road comfort than its contemporaries. The simple, utilitarian interior focused on durability rather than comfort. This generation established the Bronco's reputation for off-road capability and created a dedicated following that would maintain interest in the nameplate decades after production ended."
+
+  - name: "Second Generation"
+    start_year: 1978
+    end_year: 1979
+    description: "The second-generation Bronco represented a significant shift in philosophy, growing substantially in size as it moved to the F-Series truck platform. Available only as a three-door wagon with a removable fiberglass rear roof section, it featured a much larger, more truck-like appearance. Powered by either a 351 or 400 cubic-inch V8 engine, it offered substantially more power and towing capability than its predecessor. The interior was more comfortable and car-like, reflecting the growing consumer demand for practical daily-use SUVs rather than pure off-road vehicles. Despite its short two-year production run, this generation set the template for the full-size Bronco that would continue for the next three generations."
+
+  - name: "Third Generation"
+    start_year: 1980
+    end_year: 1986
+    description: "The third-generation Bronco maintained the full-size F-Series based platform but with styling updates and weight reduction measures in response to the energy crises of the 1970s. Engine options expanded to include a 300 cubic-inch inline-six and various V8s including 302 and 351 cubic-inch variants. The exterior styling was squarer and more angular than its predecessor, reflecting Ford's design language of the era. The interior offered improved comfort and convenience features, including available air conditioning, stereo systems, and more comfortable seating. Four-wheel drive systems were improved with the introduction of the Ford Twin-Traction Beam independent front suspension system on later models."
+
+  - name: "Fourth Generation"
+    start_year: 1987
+    end_year: 1991
+    description: "The fourth-generation Bronco received significant styling updates to match the aerodynamic redesign of the F-Series trucks. The exterior featured a more rounded front end with flush headlights and a cleaner overall design. Engine options were updated to include fuel injection across the range, improving power and efficiency. The interior was modernized with a new dashboard, improved ergonomics, and more comfort features. Safety features were enhanced with rear-wheel anti-lock brakes. This generation maintained the removable hardtop design while offering a more refined overall package."
+
+  - name: "Fifth Generation"
+    start_year: 1992
+    end_year: 1996
+    description: "The final generation of the original Bronco run featured updated styling to match the contemporary F-Series trucks, with a more rounded, aerodynamic design. Safety features were significantly enhanced with the addition of driver-side airbags, three-point seatbelts for all outboard passengers, and improved crash protection. Engine options included a 5.0L or 5.8L V8, both with electronic fuel injection. The interior offered the most car-like comfort in the model's history. Production ended in 1996 as consumer preferences shifted toward four-door SUVs, with the Ford Expedition effectively replacing the Bronco in Ford's lineup."
+
+  - name: "Sixth Generation"
+    start_year: 2021
+    end_year: null
+    description: "After a 25-year hiatus, the Bronco returned as a purpose-built off-road SUV available in two-door and four-door configurations. Built on a modified T6 platform with body-on-frame construction, it features retro-inspired styling that pays homage to the first-generation model while incorporating modern design elements. Power comes from either a 2.3L EcoBoost four-cylinder producing 300 HP or a 2.7L EcoBoost V6 with 330 HP, paired with a 7-speed manual (2.3L only) or 10-speed automatic transmission. The sixth-generation Bronco offers impressive off-road capability with available features including 35-inch tires, electronic locking differentials, disconnecting sway bar, and a terrain management system. Innovative features include removable doors and roof panels, washable interior with drain plugs, and modular mounting points for accessories. The interior balances ruggedness with modern technology, featuring water-resistant surfaces and an available 12-inch touchscreen with off-road navigation capability. Special variants include the desert-racing inspired Raptor with wider body, reinforced frame, and a 418 HP 3.0L EcoBoost V6. The revived Bronco has successfully captured the spirit of the original while offering modern performance, technology, and comfort, positioned as a direct competitor to the Jeep Wrangler."
