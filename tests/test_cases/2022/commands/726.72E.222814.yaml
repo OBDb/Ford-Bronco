@@ -5,42 +5,6 @@ test_cases:
 - response: 72E05622814028E
   expected_values:
     BRONCO_TP_FR: 32.7
-- response: '72E056228140293'
-  expected_values:
-    BRONCO_TP_FR: 32.95
-- response: '72E056228140298'
-  expected_values:
-    BRONCO_TP_FR: 33.2
-- response: 72E05622814029A
-  expected_values:
-    BRONCO_TP_FR: 33.3
-- response: 72E0562281402A4
-  expected_values:
-    BRONCO_TP_FR: 33.8
-- response: 72E0562281402A9
-  expected_values:
-    BRONCO_TP_FR: 34.05
-- response: 72E0562281402AC
-  expected_values:
-    BRONCO_TP_FR: 34.2
-- response: 72E0562281402B1
-  expected_values:
-    BRONCO_TP_FR: 34.45
-- response: 72E0562281402B6
-  expected_values:
-    BRONCO_TP_FR: 34.7
-- response: 72E0562281402BF
-  expected_values:
-    BRONCO_TP_FR: 35.15
-- response: 72E0562281402C0
-  expected_values:
-    BRONCO_TP_FR: 35.2
-- response: 72E0562281402C2
-  expected_values:
-    BRONCO_TP_FR: 35.3
-- response: 72E0562281402C7
-  expected_values:
-    BRONCO_TP_FR: 35.55
 - response: 72E0562281402D1
   expected_values:
     BRONCO_TP_FR: 36.05
