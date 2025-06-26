@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.221E1C
 test_cases:
-- response: 7E805621E1C000E
-  expected_values:
+- expected_values:
     BRONCO_TOT: 0.875
-- response: 7E805621E1C0500
-  expected_values:
+  response: 7E805621E1C000E
+- expected_values:
     BRONCO_TOT: 80
-- response: 7E805621E1CFFBD
-  expected_values:
+  response: 7E805621E1C0500
+- expected_values:
     BRONCO_TOT: -4.1875
-- response: 7E805621E1CFFFF
-  expected_values:
+  response: 7E805621E1CFFBD
+- expected_values:
     BRONCO_TOT: -0.0625
+  response: 7E805621E1CFFFF
