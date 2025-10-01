@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F42F
+test_cases:
+- expected_values:
+    BRONCO_FLI: 37.64706
+  response: '7E8 04 62 F4 2F 60 '
+- expected_values:
+    BRONCO_FLI: 38.03922
+  response: '7E8 04 62 F4 2F 61 '
+- expected_values:
+    BRONCO_FLI: 6.66667
+  response: 7E80462F42F11
+- expected_values:
+    BRONCO_FLI: 99.21569
+  response: 7E80462F42FFD
