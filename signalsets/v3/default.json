@@ -43,7 +43,7 @@
   "signals": [
     {"id": "BRONCO_TOT", "path": "Engine", "fmt": { "len": 16, "max": 500, "min": -500, "div": 16, "sign": true, "unit": "celsius" }, "name": "Transmission oil temperature"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1E23"}, "freq": 2, "dbgfilter": { "to": 2020, "years": [2022], "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1E23"}, "freq": 2, "dbgfilter": { "to": 2020, "from": 2026 },
   "signals": [
     {"id": "BRONCO_GEAR_SHFT", "path": "Engine", "name": "Shift gear", "fmt": {"len": 8, "map": {
           "10": { "description": "Manual",  "value": "MANUAL" },
