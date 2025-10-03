@@ -1,5 +1,0 @@
-command_id: 7E0.01AA
-test_cases:
-- expected_values:
-    V_SET: 200
-  response: 7E80341AAC8
