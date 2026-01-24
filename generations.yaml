@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Ford_Bronco"
+
 generations:
   - name: "First Generation"
     start_year: 1966
