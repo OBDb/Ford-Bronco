@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22F42F
 test_cases:
 - expected_values:
-    BRONCO_FLI: 36.86275
-  response: 7E80462F42F5E
+    BRONCO_FLI: 0.78431
+  response: 7E80462F42F02
 - expected_values:
-    BRONCO_FLI: 37.2549
-  response: 7E80462F42F5F
+    BRONCO_FLI: 39.60784
+  response: 7E80462F42F65
