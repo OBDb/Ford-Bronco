@@ -1,5 +1,8 @@
 command_id: 726.72E.222816
 test_cases:
 - expected_values:
+    BRONCO_TP_RLO: 38.35
+  response: 72E0562281602FF
+- expected_values:
     BRONCO_TP_RLO: 40.85
   response: '72E056228160331'
