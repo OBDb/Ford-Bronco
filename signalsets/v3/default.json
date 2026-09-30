@@ -199,7 +199,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "031A"}, "freq": 0.25,
   "signals": [
-    {"id": "BRONCO_VCT_INT_ERR", "fmt": { "len": 16, "max": 50, "div": 16, "unit": "degrees" }, "name": "Variable camshaft timing intake camshaft error"}
+    {"id": "BRONCO_VCT_INT_ERR", "fmt": { "len": 16, "max": 50, "min": -50, "div": 16, "sign": true, "unit": "degrees" }, "name": "Variable camshaft timing intake camshaft error"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "031B"}, "freq": 0.25,
   "signals": [
@@ -219,7 +219,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "0338"}, "freq": 0.25,
   "signals": [
-    {"id": "BRONCO_ETC_TRIM_LEARNED", "fmt": { "len": 16, "max": 90, "div": 512, "unit": "degrees" }, "name": "Electronic throttle control learned trim angle"}
+    {"id": "BRONCO_ETC_TRIM_LEARNED", "fmt": { "len": 16, "max": 63.9, "min": -64, "div": 512, "sign": true, "unit": "degrees" }, "name": "Electronic throttle control learned trim angle"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "033C"}, "freq": 0.25,
   "signals": [
@@ -279,7 +279,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "038F"}, "freq": 0.25,
   "signals": [
-    {"id": "BRONCO_ECT", "fmt": { "len": 16, "max": 148.889, "div": 64, "unit": "celsius" }, "name": "Engine coolant temperature"}
+    {"id": "BRONCO_ECT", "fmt": { "len": 16, "max": 511, "min": -512, "div": 64, "sign": true, "unit": "celsius" }, "name": "Engine coolant temperature"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "0393"}, "freq": 0.25,
   "signals": [
@@ -303,15 +303,15 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "03BB"}, "freq": 0.25,
   "signals": [
-    {"id": "BRONCO_VCT_EXH_DES", "fmt": { "len": 16, "max": 50, "div": 16, "unit": "degrees" }, "name": "Variable camshaft timing exhaust cam desired"}
+    {"id": "BRONCO_VCT_EXH_DES", "fmt": { "len": 16, "max": 2047, "min": -2047, "div": 16, "sign": true, "unit": "degrees" }, "name": "Variable camshaft timing exhaust cam desired"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "03BC"}, "freq": 0.25,
   "signals": [
-    {"id": "BRONCO_VCT_INT_DES", "fmt": { "len": 16, "max": 0, "div": 16, "unit": "degrees" }, "name": "Variable camshaft timing intake cam desired"}
+    {"id": "BRONCO_VCT_INT_DES", "fmt": { "len": 16, "max": 2047, "min": -2047, "div": 16, "sign": true, "unit": "degrees" }, "name": "Variable camshaft timing intake cam desired"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "03BD"}, "freq": 0.25,
   "signals": [
-    {"id": "BRONCO_CL_LC", "fmt": { "len": 16, "max": 5, "mul": 0.0001220703, "unit": "scalar" }, "name": "Closed loop lambda correction"}
+    {"id": "BRONCO_CL_LC", "fmt": { "len": 16, "max": 3.9, "min": -4, "div": 8192, "sign": true, "unit": "scalar" }, "name": "Closed loop lambda correction"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "03CA"}, "freq": 0.25,
   "signals": [
@@ -323,7 +323,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "03E8"}, "freq": 0.25,
   "signals": [
-    {"id": "BRONCO_OAR", "fmt": { "len": 16, "max": 1, "mul": 0.0000610352, "unit": "scalar" }, "name": "Octane adjust ratio"}
+    {"id": "BRONCO_OAR", "fmt": { "len": 16, "max": 1, "div": 16384, "sign": true, "unit": "scalar" }, "name": "Octane adjust ratio"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "03EC"}, "freq": 0.25,
   "signals": [
