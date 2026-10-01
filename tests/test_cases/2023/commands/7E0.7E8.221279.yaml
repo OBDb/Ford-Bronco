@@ -4,5 +4,5 @@ test_cases:
     BRONCO_IAT_SENS_V: 1.46628
   response: 7E805621279012C
 - expected_values:
-    BRONCO_IAT_SENS_V: 2.30694
-  response: 7E80562127901D8
+    BRONCO_IAT_SENS_V: 2.41935
+  response: 7E80562127901EF

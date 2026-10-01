@@ -4,5 +4,8 @@ test_cases:
     BRONCO_KS1_RAW: 24
   response: '7E8056204030018'
 - expected_values:
+    BRONCO_KS1_RAW: 241
+  response: 7E80562040300F1
+- expected_values:
     BRONCO_KS1_RAW: 999
   response: 7E80562040303E7

@@ -4,8 +4,8 @@ test_cases:
     BRONCO_MAP_HIRES: 26.25
   response: '7E8056203700069'
 - expected_values:
-    BRONCO_MAP_HIRES: 57.25
-  response: 7E80562037000E5
+    BRONCO_MAP_HIRES: 59.25
+  response: 7E80562037000ED
 - expected_values:
-    BRONCO_MAP_HIRES: 67.5
-  response: 7E805620370010E
+    BRONCO_MAP_HIRES: 66.25
+  response: '7E8056203700109'

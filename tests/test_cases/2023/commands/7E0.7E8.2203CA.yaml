@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2203CA
 test_cases:
 - expected_values:
-    BRONCO_MCT: 69
-  response: 7E8046203CA45
+    BRONCO_MCT: 65
+  response: 7E8046203CA41
 - expected_values:
     BRONCO_MCT: 86
   response: 7E8046203CA56
