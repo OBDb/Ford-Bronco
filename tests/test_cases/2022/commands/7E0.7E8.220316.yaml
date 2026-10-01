@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220316
+test_cases:
+- expected_values:
+    BRONCO_VCT_INT_DUTY: 0
+  response: '7E8056203160000'
+- expected_values:
+    BRONCO_VCT_INT_DUTY: 38.25073
+  response: 7E80562031630F6
+- expected_values:
+    BRONCO_VCT_INT_DUTY: 42.42249
+  response: 7E805620316364D

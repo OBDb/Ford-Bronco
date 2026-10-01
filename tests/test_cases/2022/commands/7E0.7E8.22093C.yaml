@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22093C
+test_cases:
+- expected_values:
+    BRONCO_ETC_ANG_ACT: 1.10156
+  response: 7E80562093C0234
+- expected_values:
+    BRONCO_ETC_ANG_ACT: 1.51562
+  response: 7E80562093C0308
+- expected_values:
+    BRONCO_ETC_ANG_ACT: 2.49219
+  response: 7E80562093C04FC
+- expected_values:
+    BRONCO_ETC_ANG_ACT: 27.30469
+  response: 7E80562093C369C
