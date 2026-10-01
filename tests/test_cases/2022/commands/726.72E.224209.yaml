@@ -1,0 +1,14 @@
+command_id: 726.72E.224209
+test_cases:
+- expected_values:
+    BRONCO_BAT_CURRENT: 9
+  response: '72E0762420900002480'
+- expected_values:
+    BRONCO_BAT_CURRENT: 12.75
+  response: '72E0762420900003300'
+- expected_values:
+    BRONCO_BAT_CURRENT: 18
+  response: 72E07624209000048E0
+- expected_values:
+    BRONCO_BAT_CURRENT: 22.75
+  response: 72E0762420900005BC0

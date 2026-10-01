@@ -1,0 +1,5 @@
+command_id: 726.72E.224025
+test_cases:
+- expected_values:
+    BRONCO_BAT_QUIESCENT: 30
+  response: 72E05624025080C

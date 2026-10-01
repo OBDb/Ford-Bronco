@@ -1,0 +1,8 @@
+command_id: 703.70B.223B40
+test_cases:
+- expected_values:
+    BRONCO_FOOT_BRAKE: 0
+  response: 70B07623B4000000000
+- expected_values:
+    BRONCO_FOOT_BRAKE: 1
+  response: 70B07623B4002000000

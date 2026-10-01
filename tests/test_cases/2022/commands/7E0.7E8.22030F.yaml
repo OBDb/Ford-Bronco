@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22030F
+test_cases:
+- expected_values:
+    BRONCO_CL: 0.66663
+  response: 7E80562030F5554
+- expected_values:
+    BRONCO_CL: 0.93778
+  response: 7E80562030F7809
+- expected_values:
+    BRONCO_CL: 1.0156
+  response: 7E80562030F81FF
+- expected_values:
+    BRONCO_CL: 1.07501
+  response: 7E80562030F899A

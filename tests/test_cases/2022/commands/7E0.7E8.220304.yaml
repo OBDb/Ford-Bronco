@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220304
+test_cases:
+- expected_values:
+    BRONCO_CMD_GEN_V: 10.5935
+  response: 7E80562030454CC
+- expected_values:
+    BRONCO_CMD_GEN_V: 14.48335
+  response: 7E80562030473EF
+- expected_values:
+    BRONCO_CMD_GEN_V: 14.49653
+  response: 7E805620304740A
+- expected_values:
+    BRONCO_CMD_GEN_V: 14.78054
+  response: '7E8056203047650'

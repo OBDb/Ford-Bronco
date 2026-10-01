@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F434
+test_cases:
+- expected_values:
+    BRONCO_AIR_FUEL_RAT: 0
+  response: 7E80762F43400008000
+- expected_values:
+    BRONCO_AIR_FUEL_RAT: 10.48832
+  response: 7E80762F4345BB37EA4
+- expected_values:
+    BRONCO_AIR_FUEL_RAT: 14.7605
+  response: 7E80762F434810D7FFF
+- expected_values:
+    BRONCO_AIR_FUEL_RAT: 29.2801
+  response: 7E80762F434FFFF822A
