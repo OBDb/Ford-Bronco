@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.220548
 test_cases:
 - expected_values:
-    BRONCO_LPFP_ACT: 65.92116
-  response: 7E805620548038D
+    BRONCO_LPFP_ACT: 64.54327
+  response: 7E805620548037A
 - expected_values:
     BRONCO_LPFP_ACT: 73.17321
   response: 7E80562054803F1

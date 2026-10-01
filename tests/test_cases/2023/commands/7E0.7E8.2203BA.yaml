@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2203BA
 test_cases:
 - expected_values:
-    BRONCO_AAT_V: 2.73216
-  response: 7E8056203BA022F
+    BRONCO_AAT_V: 2.69795
+  response: 7E8056203BA0228
 - expected_values:
     BRONCO_AAT_V: 2.85435
   response: 7E8056203BA0248
