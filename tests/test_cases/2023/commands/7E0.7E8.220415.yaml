@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220415
+test_cases:
+- expected_values:
+    BRONCO_PCM_ENG_EOP_RAW: 98
+  response: '7E8056204150062'
+- expected_values:
+    BRONCO_PCM_ENG_EOP_RAW: 244
+  response: 7E80562041500F4
+- expected_values:
+    BRONCO_PCM_ENG_EOP_RAW: 260
+  response: '7E8056204150104'
