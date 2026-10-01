@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.22041F
+test_cases:
+- expected_values:
+    BRONCO_LPFP_DES: 69.165
+  response: 7E80462041F9F
+- expected_values:
+    BRONCO_LPFP_DES: 70.035
+  response: 7E80462041FA1
+- expected_values:
+    BRONCO_LPFP_DES: 70.905
+  response: 7E80462041FA3
+- expected_values:
+    BRONCO_LPFP_DES: 72.21
+  response: 7E80462041FA6
+- expected_values:
+    BRONCO_LPFP_DES: 73.95
+  response: 7E80462041FAA
+- expected_values:
+    BRONCO_LPFP_DES: 74.385
+  response: 7E80462041FAB
+- expected_values:
+    BRONCO_LPFP_DES: 83.085
+  response: 7E80462041FBF

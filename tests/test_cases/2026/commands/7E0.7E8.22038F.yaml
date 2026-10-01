@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22038F
+test_cases:
+- expected_values:
+    BRONCO_ECT: 62.04688
+  response: 7E80562038F0F83
+- expected_values:
+    BRONCO_ECT: 71.89062
+  response: 7E80562038F11F9
+- expected_values:
+    BRONCO_ECT: 88.10938
+  response: 7E80562038F1607
