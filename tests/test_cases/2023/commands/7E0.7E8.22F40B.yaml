@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F40B
+test_cases:
+- expected_values:
+    BRONCO_MAP: 3.91605
+  response: 7E80462F40B1B
+- expected_values:
+    BRONCO_MAP: 17.1146
+  response: 7E80462F40B76

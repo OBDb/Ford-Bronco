@@ -1,0 +1,26 @@
+command_id: 726.72E.224028
+test_cases:
+- expected_values:
+    BRONCO_BATT_SOC: 12.15686
+  response: 72E046240281F
+- expected_values:
+    BRONCO_BATT_SOC: 12.54902
+  response: '72E0462402820'
+- expected_values:
+    BRONCO_BATT_SOC: 12.94118
+  response: '72E0462402821'
+- expected_values:
+    BRONCO_BATT_SOC: 13.33333
+  response: '72E0462402822'
+- expected_values:
+    BRONCO_BATT_SOC: 13.72549
+  response: '72E0462402823'
+- expected_values:
+    BRONCO_BATT_SOC: 14.11765
+  response: '72E0462402824'
+- expected_values:
+    BRONCO_BATT_SOC: 14.5098
+  response: '72E0462402825'
+- expected_values:
+    BRONCO_BATT_SOC: 14.90196
+  response: '72E0462402826'

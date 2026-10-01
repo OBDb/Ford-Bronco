@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220324
+test_cases:
+- expected_values:
+    BRONCO_HPFP_V: 0.58162
+  response: '7E8056203240077'
+- expected_values:
+    BRONCO_HPFP_V: 1.24633
+  response: 7E80562032400FF
+- expected_values:
+    BRONCO_HPFP_V: 1.28543
+  response: '7E8056203240107'
+- expected_values:
+    BRONCO_HPFP_V: 2.66862
+  response: '7E8056203240222'

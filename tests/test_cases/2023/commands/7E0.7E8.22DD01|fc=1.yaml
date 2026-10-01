@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.22DD01|fc=1
+test_cases:
+- expected_values:
+    BRONCO_ODO: 28047
+  response: 7E80662DD01006D8F
+- expected_values:
+    BRONCO_ODO: 28048
+  response: 7E80662DD01006D90
+- expected_values:
+    BRONCO_ODO: 28049
+  response: 7E80662DD01006D91
+- expected_values:
+    BRONCO_ODO: 28050
+  response: 7E80662DD01006D92
+- expected_values:
+    BRONCO_ODO: 28053
+  response: 7E80662DD01006D95
+- expected_values:
+    BRONCO_ODO: 28056
+  response: 7E80662DD01006D98
+- expected_values:
+    BRONCO_ODO: 28058
+  response: 7E80662DD01006D9A
+- expected_values:
+    BRONCO_ODO: 28059
+  response: 7E80662DD01006D9B
