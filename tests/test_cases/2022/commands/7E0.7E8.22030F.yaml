@@ -4,11 +4,11 @@ test_cases:
     BRONCO_CL: 0.66663
   response: 7E80562030F5554
 - expected_values:
-    BRONCO_CL: 0.93778
-  response: 7E80562030F7809
+    BRONCO_CL: 1
+  response: 7E80562030F8000
 - expected_values:
     BRONCO_CL: 1.0156
   response: 7E80562030F81FF
 - expected_values:
-    BRONCO_CL: 1.07501
-  response: 7E80562030F899A
+    BRONCO_CL: 1.08118
+  response: 7E80562030F8A64

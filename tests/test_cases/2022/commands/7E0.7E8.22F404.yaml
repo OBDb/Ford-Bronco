@@ -4,5 +4,5 @@ test_cases:
     BRONCO_ENG_LOAD_PCT: 0
   response: 7E80462F40400
 - expected_values:
-    BRONCO_ENG_LOAD_PCT: 67.45098
-  response: 7E80462F404AC
+    BRONCO_ENG_LOAD_PCT: 69.01961
+  response: 7E80462F404B0

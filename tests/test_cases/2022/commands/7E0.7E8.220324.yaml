@@ -7,8 +7,8 @@ test_cases:
     BRONCO_HPFP_V: 1.24633
   response: 7E80562032400FF
 - expected_values:
-    BRONCO_HPFP_V: 1.29521
-  response: '7E8056203240109'
+    BRONCO_HPFP_V: 1.261
+  response: '7E8056203240102'
 - expected_values:
     BRONCO_HPFP_V: 2.58553
   response: '7E8056203240211'

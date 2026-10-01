@@ -1,6 +1,18 @@
 command_id: 7E0.7E8.220338
 test_cases:
 - expected_values:
+    BRONCO_ETC_TRIM_LEARNED: 0.7207
+  response: '7E8056203380171'
+- expected_values:
+    BRONCO_ETC_TRIM_LEARNED: 0.73438
+  response: '7E8056203380178'
+- expected_values:
+    BRONCO_ETC_TRIM_LEARNED: 0.73633
+  response: '7E8056203380179'
+- expected_values:
+    BRONCO_ETC_TRIM_LEARNED: 0.75977
+  response: '7E8056203380185'
+- expected_values:
     BRONCO_ETC_TRIM_LEARNED: 0.7793
   response: 7E805620338018F
 - expected_values:
