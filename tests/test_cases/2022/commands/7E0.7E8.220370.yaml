@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220370
+test_cases:
+- expected_values:
+    BRONCO_MAP_HIRES: 20.25
+  response: '7E8056203700051'
+- expected_values:
+    BRONCO_MAP_HIRES: 62.25
+  response: 7E80562037000F9
+- expected_values:
+    BRONCO_MAP_HIRES: 77
+  response: '7E8056203700134'
+- expected_values:
+    BRONCO_MAP_HIRES: 150.5
+  response: 7E805620370025A

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F43C
+test_cases:
+- expected_values:
+    BRONCO_CAT_TEMP: 534.6
+  response: 7E80562F43C1672
+- expected_values:
+    BRONCO_CAT_TEMP: 677.7
+  response: 7E80562F43C1C09
+- expected_values:
+    BRONCO_CAT_TEMP: 739.4
+  response: 7E80562F43C1E72
+- expected_values:
+    BRONCO_CAT_TEMP: 753.5
+  response: 7E80562F43C1EFF

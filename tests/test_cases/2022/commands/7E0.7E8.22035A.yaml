@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22035A
+test_cases:
+- expected_values:
+    BRONCO_BARO_V: 3.49462
+  response: 7E80562035A02CB
+- expected_values:
+    BRONCO_BARO_V: 3.54839
+  response: 7E80562035A02D6

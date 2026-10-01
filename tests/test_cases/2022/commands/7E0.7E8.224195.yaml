@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.224195
+test_cases:
+- expected_values:
+    BRONCO_DTE_DISP: 421.6
+  response: '7E8056241951078'
+- expected_values:
+    BRONCO_DTE_DISP: 434.8
+  response: 7E80562419510FC
+- expected_values:
+    BRONCO_DTE_DISP: 435.2
+  response: '7E8056241951100'
