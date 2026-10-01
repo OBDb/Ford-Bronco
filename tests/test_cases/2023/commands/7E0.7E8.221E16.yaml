@@ -4,11 +4,11 @@ test_cases:
     BRONCO_AXLE_GEAR_RATIO_MEAS: 0.6355
   response: 7E805621E160A2B
 - expected_values:
-    BRONCO_AXLE_GEAR_RATIO_MEAS: 0.99854
-  response: 7E805621E160FFA
-- expected_values:
     BRONCO_AXLE_GEAR_RATIO_MEAS: 1
   response: 7E805621E161000
+- expected_values:
+    BRONCO_AXLE_GEAR_RATIO_MEAS: 4.31128
+  response: 7E805621E1644FB
 - expected_values:
     BRONCO_AXLE_GEAR_RATIO_MEAS: 10
   response: 7E805621E16A000

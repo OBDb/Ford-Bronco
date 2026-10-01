@@ -25,5 +25,8 @@ test_cases:
     BRONCO_PCM_CMD_TRANS_GEAR_RATIO: 2.14896
   response: 7E805621E192262
 - expected_values:
+    BRONCO_PCM_CMD_TRANS_GEAR_RATIO: 2.99687
+  response: 7E805621E192FF3
+- expected_values:
     BRONCO_PCM_CMD_TRANS_GEAR_RATIO: 4.71394
   response: 7E805621E194B6C

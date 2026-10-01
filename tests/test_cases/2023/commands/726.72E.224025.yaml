@@ -1,5 +1,8 @@
 command_id: 726.72E.224025
 test_cases:
 - expected_values:
+    BRONCO_BAT_QUIESCENT: 85
+  response: 72E05624025087A
+- expected_values:
     BRONCO_BAT_QUIESCENT: 182
   response: 72E05624025093C

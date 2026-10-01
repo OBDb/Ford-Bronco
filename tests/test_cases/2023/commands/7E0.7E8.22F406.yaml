@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22F406
 test_cases:
 - expected_values:
-    BRONCO_STFT: -5.46875
-  response: 7E80462F40679
+    BRONCO_STFT: -10.9375
+  response: 7E80462F40672
 - expected_values:
-    BRONCO_STFT: 6.25
-  response: 7E80462F40688
+    BRONCO_STFT: 8.59375
+  response: 7E80462F4068B
