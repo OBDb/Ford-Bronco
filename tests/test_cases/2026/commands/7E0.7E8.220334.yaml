@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220334
+test_cases:
+- expected_values:
+    BRONCO_PCM_CYL_HEAD_T_CORR: 62.375
+  response: 7E8056203340F98
+- expected_values:
+    BRONCO_PCM_CYL_HEAD_T_CORR: 87.76562
+  response: 7E80562033415F1
+- expected_values:
+    BRONCO_PCM_CYL_HEAD_T_CORR: 88.10938
+  response: '7E8056203341607'

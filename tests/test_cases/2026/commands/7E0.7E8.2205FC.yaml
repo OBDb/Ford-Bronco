@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2205FC
+test_cases:
+- expected_values:
+    BRONCO_PCM_CYL_HEAD_T_SENS_2_RAW: 71.75
+  response: 7E8056205FC11F0
+- expected_values:
+    BRONCO_PCM_CYL_HEAD_T_SENS_2_RAW: 84.0625
+  response: 7E8056205FC1504
+- expected_values:
+    BRONCO_PCM_CYL_HEAD_T_SENS_2_RAW: 91.96875
+  response: 7E8056205FC16FE
+- expected_values:
+    BRONCO_PCM_CYL_HEAD_T_SENS_2_RAW: 103.01562
+  response: 7E8056205FC19C1

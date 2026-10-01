@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F4A6
+test_cases:
+- expected_values:
+    BRONCO_PCM_VEH_ODO: 11357
+  response: 7E80762F4A60001BBA2
+- expected_values:
+    BRONCO_PCM_VEH_ODO: 11366.3
+  response: 7E80762F4A60001BBFF
+- expected_values:
+    BRONCO_PCM_VEH_ODO: 11366.9
+  response: 7E80762F4A60001BC05
