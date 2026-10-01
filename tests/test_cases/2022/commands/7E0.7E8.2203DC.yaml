@@ -10,5 +10,5 @@ test_cases:
     BRONCO_HPFP_DES: 2597.62592
   response: 7E8056203DC06FF
 - expected_values:
-    BRONCO_HPFP_DES: 3280.75367
-  response: 7E8056203DC08D6
+    BRONCO_HPFP_DES: 3500
+  response: 7E8056203DC09C3

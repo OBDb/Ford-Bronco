@@ -11,4 +11,7 @@ test_cases:
   response: 7E80762F434810D7FFF
 - expected_values:
     BRONCO_AIR_FUEL_RAT: 29.2801
+  response: 7E80762F434FFFF81EA
+- expected_values:
+    BRONCO_AIR_FUEL_RAT: 29.2801
   response: 7E80762F434FFFF822A

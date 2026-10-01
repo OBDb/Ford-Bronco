@@ -4,5 +4,5 @@ test_cases:
     BRONCO_MCT: 56
   response: 7E8046203CA38
 - expected_values:
-    BRONCO_MCT: 73
-  response: 7E8046203CA49
+    BRONCO_MCT: 76
+  response: 7E8046203CA4C

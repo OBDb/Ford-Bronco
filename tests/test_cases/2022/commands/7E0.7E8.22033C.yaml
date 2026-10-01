@@ -4,5 +4,5 @@ test_cases:
     BRONCO_TIP_V: 1.33301
   response: 7E80562033C0111
 - expected_values:
-    BRONCO_TIP_V: 1.81152
-  response: 7E80562033C0173
+    BRONCO_TIP_V: 1.81641
+  response: 7E80562033C0174

@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     BRONCO_KS1_RAW: 162
   response: 7E80562040300A2
+- expected_values:
+    BRONCO_KS1_RAW: 337
+  response: '7E8056204030151'

@@ -1,8 +1,11 @@
 command_id: 7E0.7E8.221279
 test_cases:
 - expected_values:
-    BRONCO_IAT_SENS_V: 2.47801
-  response: 7E80562127901FB
+    BRONCO_IAT_SENS_V: 2.08211
+  response: 7E80562127901AA
 - expected_values:
-    BRONCO_IAT_SENS_V: 2.57087
-  response: 7E805621279020E
+    BRONCO_IAT_SENS_V: 2.49267
+  response: 7E80562127901FE
+- expected_values:
+    BRONCO_IAT_SENS_V: 2.50244
+  response: '7E8056212790200'
