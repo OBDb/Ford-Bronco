@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.2203EC
+test_cases:
+- expected_values:
+    BRONCO_IGN_CORR_CYL1: 0
+  response: 7E8056203EC0000
+- expected_values:
+    BRONCO_IGN_CORR_CYL1: -0.89062
+  response: 7E8056203ECFE38
+- expected_values:
+    BRONCO_IGN_CORR_CYL1: -0.65039
+  response: 7E8056203ECFEB3
+- expected_values:
+    BRONCO_IGN_CORR_CYL1: -0.64258
+  response: 7E8056203ECFEB7
+- expected_values:
+    BRONCO_IGN_CORR_CYL1: -0.37695
+  response: 7E8056203ECFF3F
+- expected_values:
+    BRONCO_IGN_CORR_CYL1: -0.25
+  response: 7E8056203ECFF80
