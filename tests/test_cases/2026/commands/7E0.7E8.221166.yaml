@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221166
+test_cases:
+- expected_values:
+    BRONCO_EVAP_PURGE_CMD: 0
+  response: '7E8056211660000'
+- expected_values:
+    BRONCO_EVAP_PURGE_CMD: 37.48779
+  response: 7E8056211662FFC
+- expected_values:
+    BRONCO_EVAP_PURGE_CMD: 98.99902
+  response: 7E8056211667EB8

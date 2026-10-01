@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22DD01|fc=1
+test_cases:
+- expected_values:
+    BRONCO_ODO: 11357
+  response: 7E80662DD01002C5D
+- expected_values:
+    BRONCO_ODO: 11390
+  response: 7E80662DD01002C7E

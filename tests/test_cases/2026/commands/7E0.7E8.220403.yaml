@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.220403
+test_cases:
+- expected_values:
+    BRONCO_KS1_RAW: 19
+  response: '7E8056204030013'
+- expected_values:
+    BRONCO_KS1_RAW: 167
+  response: 7E80562040300A7

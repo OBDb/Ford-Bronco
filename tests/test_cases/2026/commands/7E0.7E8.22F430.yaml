@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F430
+test_cases:
+- expected_values:
+    BRONCO_WARMUP_CLR: 147
+  response: 7E80462F43093
+- expected_values:
+    BRONCO_WARMUP_CLR: 148
+  response: 7E80462F43094

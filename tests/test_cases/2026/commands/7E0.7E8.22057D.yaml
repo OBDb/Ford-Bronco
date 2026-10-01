@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.22057D
+test_cases:
+- expected_values:
+    BRONCO_AAT_ALT: 29
+  response: 7E80462057D8A
+- expected_values:
+    BRONCO_AAT_ALT: 30
+  response: 7E80462057D8C
+- expected_values:
+    BRONCO_AAT_ALT: 32
+  response: 7E80462057D90
+- expected_values:
+    BRONCO_AAT_ALT: 33
+  response: 7E80462057D92
+- expected_values:
+    BRONCO_AAT_ALT: 34
+  response: 7E80462057D94
+- expected_values:
+    BRONCO_AAT_ALT: 35
+  response: 7E80462057D96
