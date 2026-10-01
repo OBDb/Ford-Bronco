@@ -4,5 +4,5 @@ test_cases:
     BRONCO_VSS: 0
   response: 7E80462F40D00
 - expected_values:
-    BRONCO_VSS: 102
-  response: 7E80462F40D66
+    BRONCO_VSS: 109
+  response: 7E80462F40D6D
