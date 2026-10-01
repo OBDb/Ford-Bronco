@@ -4,11 +4,11 @@ test_cases:
     BRONCO_ETC_ANG_ACT: 1.10156
   response: 7E80562093C0234
 - expected_values:
-    BRONCO_ETC_ANG_ACT: 1.51562
-  response: 7E80562093C0308
-- expected_values:
     BRONCO_ETC_ANG_ACT: 2.49219
   response: 7E80562093C04FC
 - expected_values:
-    BRONCO_ETC_ANG_ACT: 27.30469
-  response: 7E80562093C369C
+    BRONCO_ETC_ANG_ACT: 2.5
+  response: 7E80562093C0500
+- expected_values:
+    BRONCO_ETC_ANG_ACT: 45.13281
+  response: 7E80562093C5A44

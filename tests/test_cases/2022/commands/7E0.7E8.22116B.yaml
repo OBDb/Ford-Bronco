@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     BRONCO_IGN_TIM_CYL1: -9
   response: 7E80562116BFFDC
+- expected_values:
+    BRONCO_IGN_TIM_CYL1: -4.75
+  response: 7E80562116BFFED

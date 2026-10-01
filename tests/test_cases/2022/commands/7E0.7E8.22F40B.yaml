@@ -4,5 +4,5 @@ test_cases:
     BRONCO_MAP: 2.75574
   response: 7E80462F40B13
 - expected_values:
-    BRONCO_MAP: 17.83979
-  response: 7E80462F40B7B
+    BRONCO_MAP: 17.98483
+  response: 7E80462F40B7C

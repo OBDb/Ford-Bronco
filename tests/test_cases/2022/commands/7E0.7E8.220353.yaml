@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     BRONCO_BARO: 13.63202
   response: '7E8056203530178'
+- expected_values:
+    BRONCO_BARO: 13.66828
+  response: '7E8056203530179'

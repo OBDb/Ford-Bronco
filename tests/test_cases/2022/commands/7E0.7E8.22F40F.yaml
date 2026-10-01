@@ -4,5 +4,5 @@ test_cases:
     BRONCO_IAT_ALT2: 11
   response: 7E80462F40F33
 - expected_values:
-    BRONCO_IAT_ALT2: 24
-  response: 7E80462F40F40
+    BRONCO_IAT_ALT2: 33
+  response: 7E80462F40F49

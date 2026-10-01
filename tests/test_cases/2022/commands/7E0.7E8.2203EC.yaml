@@ -4,8 +4,8 @@ test_cases:
     BRONCO_IGN_CORR_CYL1: 0
   response: 7E8056203EC0000
 - expected_values:
-    BRONCO_IGN_CORR_CYL1: 0.38867
-  response: 7E8056203EC00C7
-- expected_values:
     BRONCO_IGN_CORR_CYL1: -0.17578
   response: 7E8056203ECFFA6
+- expected_values:
+    BRONCO_IGN_CORR_CYL1: -0.06836
+  response: 7E8056203ECFFDD

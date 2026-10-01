@@ -10,5 +10,5 @@ test_cases:
     BRONCO_ETC_ANG_DES: 22.99805
   response: 7E80562091A2DFF
 - expected_values:
-    BRONCO_ETC_ANG_DES: 38.5293
-  response: 7E80562091A4D0F
+    BRONCO_ETC_ANG_DES: 61.29883
+  response: 7E80562091A7A99

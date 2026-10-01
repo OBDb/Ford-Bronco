@@ -4,11 +4,11 @@ test_cases:
     BRONCO_TIP_ABS: 13.43312
   response: 7E80562033E2F6D
 - expected_values:
-    BRONCO_TIP_ABS: 15.5641
-  response: 7E80562033E36F3
+    BRONCO_TIP_ABS: 13.59355
+  response: 7E80562033E2FFE
 - expected_values:
     BRONCO_TIP_ABS: 15.60393
   response: 7E80562033E3717
 - expected_values:
-    BRONCO_TIP_ABS: 17.02901
-  response: 7E80562033E3C1F
+    BRONCO_TIP_ABS: 18.54702
+  response: 7E80562033E417B

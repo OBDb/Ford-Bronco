@@ -5,7 +5,7 @@ test_cases:
   response: '7E8056203190000'
 - expected_values:
     BRONCO_VCT_EXH_ACT: 50
-  response: 7E805620319FFFE
+  response: 7E805620319FFFD
 - expected_values:
     BRONCO_VCT_EXH_ACT: 50
   response: 7E805620319FFFF

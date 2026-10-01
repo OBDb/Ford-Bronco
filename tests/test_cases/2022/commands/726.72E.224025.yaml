@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     BRONCO_BAT_QUIESCENT: 30
   response: 72E05624025080C
+- expected_values:
+    BRONCO_BAT_QUIESCENT: 41
+  response: '72E056240250822'

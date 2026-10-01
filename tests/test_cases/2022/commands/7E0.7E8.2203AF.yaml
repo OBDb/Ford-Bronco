@@ -7,6 +7,9 @@ test_cases:
     BRONCO_TRQ_CTRL_REQ: 6
   response: 7E8046203AF06
 - expected_values:
+    BRONCO_TRQ_CTRL_REQ: 7
+  response: 7E8046203AF07
+- expected_values:
     BRONCO_TRQ_CTRL_REQ: 12
   response: 7E8046203AF0C
 - expected_values:
