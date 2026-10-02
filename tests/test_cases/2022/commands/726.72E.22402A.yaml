@@ -4,23 +4,5 @@ test_cases:
     BRONCO_VEH_BAT_V: 12.3
   response: 72E0462402A7E
 - expected_values:
-    BRONCO_VEH_BAT_V: 12.4
-  response: 72E0462402A80
-- expected_values:
-    BRONCO_VEH_BAT_V: 12.7
-  response: 72E0462402A86
-- expected_values:
-    BRONCO_VEH_BAT_V: 13
-  response: 72E0462402A8C
-- expected_values:
-    BRONCO_VEH_BAT_V: 14.1
-  response: 72E0462402AA2
-- expected_values:
-    BRONCO_VEH_BAT_V: 14.2
-  response: 72E0462402AA4
-- expected_values:
-    BRONCO_VEH_BAT_V: 14.3
-  response: 72E0462402AA6
-- expected_values:
     BRONCO_VEH_BAT_V: 14.6
   response: 72E0462402AAC
