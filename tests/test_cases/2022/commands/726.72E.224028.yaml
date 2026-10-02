@@ -1,11 +1,11 @@
 command_id: 726.72E.224028
 test_cases:
 - expected_values:
-    BRONCO_BATT_SOC: 30.19608
+    BRONCO_BATT_SOC: 77
   response: 72E046240284D
 - expected_values:
-    BRONCO_BATT_SOC: 30.58824
+    BRONCO_BATT_SOC: 78
   response: 72E046240284E
 - expected_values:
-    BRONCO_BATT_SOC: 30.98039
+    BRONCO_BATT_SOC: 79
   response: 72E046240284F
