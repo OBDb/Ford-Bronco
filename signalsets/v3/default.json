@@ -76,7 +76,7 @@
   ]},
 { "hdr": "726", "rax": "72E", "cmd": {"22": "4028"}, "freq": 10, "dbgfilter": { "to": 2021, "years": [2024, 2025], "from": 2027 },
   "signals": [
-    {"id": "BRONCO_BATT_SOC", "path": "Battery", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Battery charge"}
+    {"id": "BRONCO_BATT_SOC", "path": "Battery", "fmt": { "len": 8, "max": 100, "unit": "percent" }, "name": "Battery charge"}
   ]},
 { "hdr": "726", "rax": "72E", "dbg": true, "cmd": {"22": "4029"}, "freq": 10,
   "signals": [
@@ -275,7 +275,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "038E"}, "freq": 0.25, "dbgfilter": { "to": 2021, "years": [2024, 2025], "from": 2027 },
   "signals": [
-    {"id": "BRONCO_EVAP_V", "fmt": { "len": 16, "max": 5, "mul": 0.1998046869, "unit": "volts" }, "name": "Evaporative vapor pressure sensor voltage"}
+    {"id": "BRONCO_EVAP_V", "fmt": { "len": 16, "max": 65.535, "div": 1000, "unit": "volts" }, "name": "Evaporative vapor pressure sensor voltage"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "038F"}, "freq": 0.25, "dbgfilter": { "to": 2021, "years": [2024, 2025], "from": 2027 },
   "signals": [

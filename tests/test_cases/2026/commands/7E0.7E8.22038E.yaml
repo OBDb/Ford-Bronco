@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22038E
 test_cases:
 - expected_values:
-    BRONCO_EVAP_V: 5
+    BRONCO_EVAP_V: 1.606
   response: 7E80562038E0646
 - expected_values:
-    BRONCO_EVAP_V: 5
+    BRONCO_EVAP_V: 2.547
   response: 7E80562038E09F3
 - expected_values:
-    BRONCO_EVAP_V: 5
+    BRONCO_EVAP_V: 2.562
   response: 7E80562038E0A02
