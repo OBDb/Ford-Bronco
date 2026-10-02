@@ -776,7 +776,7 @@
   "signals": [
     {"id": "BRONCO_EOT_F45C", "path": "Engine", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Engine oil temperature, alternate", "suggestedMetric": "engineOilTemperature"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F45E"}, "freq": 1, "dbgfilter": { "to": 2025, "from": 2027 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F45E"}, "freq": 1, "dbgfilter": { "to": 2022, "years": [2024, 2025], "from": 2027 },
   "signals": [
     {"id": "BRONCO_ENG_FUEL_RATE", "path": "Fuel", "fmt": { "len": 16, "max": 3276.75, "div": 20, "unit": "liters" }, "name": "Engine fuel rate"}
   ]},
