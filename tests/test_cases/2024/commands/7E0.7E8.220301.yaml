@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.220301
 test_cases:
 - expected_values:
-    BRONCO_MAP_V: 0.40723
-  response: 7E80562030101A1
+    BRONCO_MAP_V: 0.37109
+  response: 7E805620301017C
 - expected_values:
     BRONCO_MAP_V: 0.49023
   response: 7E80562030101F6

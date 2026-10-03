@@ -4,20 +4,5 @@ test_cases:
     BRONCO_ODO: 32737
   response: 7E80662DD01007FE1
 - expected_values:
-    BRONCO_ODO: 32738
-  response: 7E80662DD01007FE2
-- expected_values:
-    BRONCO_ODO: 32739
-  response: 7E80662DD01007FE3
-- expected_values:
-    BRONCO_ODO: 32740
-  response: 7E80662DD01007FE4
-- expected_values:
-    BRONCO_ODO: 32741
-  response: 7E80662DD01007FE5
-- expected_values:
-    BRONCO_ODO: 32742
-  response: 7E80662DD01007FE6
-- expected_values:
-    BRONCO_ODO: 32743
-  response: 7E80662DD01007FE7
+    BRONCO_ODO: 32749
+  response: 7E80662DD01007FED

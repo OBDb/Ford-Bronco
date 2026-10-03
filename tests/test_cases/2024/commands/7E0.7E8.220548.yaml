@@ -4,5 +4,8 @@ test_cases:
     BRONCO_LPFP_ACT: 63.31042
   response: '7E8056205480369'
 - expected_values:
-    BRONCO_LPFP_ACT: 72.95565
-  response: 7E80562054803EE
+    BRONCO_LPFP_ACT: 73.75337
+  response: 7E80562054803F9
+- expected_values:
+    BRONCO_LPFP_ACT: 74.69614
+  response: '7E8056205480406'

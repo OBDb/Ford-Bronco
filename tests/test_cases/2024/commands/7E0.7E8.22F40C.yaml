@@ -7,5 +7,5 @@ test_cases:
     BRONCO_RPM: 831.5
   response: 7E80562F40C0CFE
 - expected_values:
-    BRONCO_RPM: 2183
-  response: 7E80562F40C221C
+    BRONCO_RPM: 2333.5
+  response: 7E80562F40C2476

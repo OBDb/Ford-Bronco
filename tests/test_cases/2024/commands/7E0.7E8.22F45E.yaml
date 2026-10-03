@@ -4,8 +4,8 @@ test_cases:
     BRONCO_ENG_FUEL_RATE: 0
   response: 7E80562F45E0000
 - expected_values:
-    BRONCO_ENG_FUEL_RATE: 8.8
-  response: 7E80562F45E00B0
+    BRONCO_ENG_FUEL_RATE: 10.95
+  response: 7E80562F45E00DB
 - expected_values:
     BRONCO_ENG_FUEL_RATE: 13.9
   response: 7E80562F45E0116

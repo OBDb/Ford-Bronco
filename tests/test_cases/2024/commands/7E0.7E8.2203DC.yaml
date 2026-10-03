@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.2203DC
 test_cases:
 - expected_values:
-    BRONCO_HPFP_DES: 219.00699
-  response: 7E8056203DC0097
+    BRONCO_HPFP_DES: 23.20604
+  response: 7E8056203DC0010
 - expected_values:
     BRONCO_HPFP_DES: 733.89096
   response: 7E8056203DC01FA
 - expected_values:
-    BRONCO_HPFP_DES: 2989.22782
-  response: 7E8056203DC080D
+    BRONCO_HPFP_DES: 754.19625
+  response: 7E8056203DC0208
 - expected_values:
     BRONCO_HPFP_DES: 3500
   response: 7E8056203DC09B2

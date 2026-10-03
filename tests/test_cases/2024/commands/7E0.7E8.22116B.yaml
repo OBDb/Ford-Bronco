@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22116B
 test_cases:
 - expected_values:
-    BRONCO_IGN_TIM_CYL1: 3.25
-  response: 7E80562116B000D
+    BRONCO_IGN_TIM_CYL1: 2.5
+  response: 7E80562116B000A
 - expected_values:
     BRONCO_IGN_TIM_CYL1: -15
   response: 7E80562116BFFC4
 - expected_values:
-    BRONCO_IGN_TIM_CYL1: -3.75
-  response: 7E80562116BFFF1
+    BRONCO_IGN_TIM_CYL1: -2.5
+  response: 7E80562116BFFF6

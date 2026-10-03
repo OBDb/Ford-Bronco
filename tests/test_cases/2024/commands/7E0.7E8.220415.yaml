@@ -4,8 +4,8 @@ test_cases:
     BRONCO_PCM_ENG_EOP_RAW: 100
   response: '7E8056204150064'
 - expected_values:
-    BRONCO_PCM_ENG_EOP_RAW: 304
-  response: '7E8056204150130'
+    BRONCO_PCM_ENG_EOP_RAW: 301
+  response: 7E805620415012D
 - expected_values:
     BRONCO_PCM_ENG_EOP_RAW: 370
   response: '7E8056204150172'

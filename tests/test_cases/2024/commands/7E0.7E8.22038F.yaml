@@ -7,8 +7,5 @@ test_cases:
     BRONCO_ECT: 43.96875
   response: 7E80562038F0AFE
 - expected_values:
-    BRONCO_ECT: 76.15625
-  response: 7E80562038F130A
-- expected_values:
-    BRONCO_ECT: 89.8125
-  response: 7E80562038F1674
+    BRONCO_ECT: 92.10938
+  response: 7E80562038F1707

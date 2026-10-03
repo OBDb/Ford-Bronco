@@ -4,8 +4,8 @@ test_cases:
     BRONCO_EVAP_PURGE_CMD: 0
   response: '7E8056211660000'
 - expected_values:
-    BRONCO_EVAP_PURGE_CMD: 55.26733
-  response: 7E80562116646BE
+    BRONCO_EVAP_PURGE_CMD: 64.67896
+  response: 7E80562116652CA
 - expected_values:
     BRONCO_EVAP_PURGE_CMD: 92.99622
   response: '7E8056211667709'
