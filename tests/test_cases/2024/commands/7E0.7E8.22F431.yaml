@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.22F431
+test_cases:
+- expected_values:
+    BRONCO_DIST_DTC_CLR: 32735
+  response: 7E80562F4317FDF
+- expected_values:
+    BRONCO_DIST_DTC_CLR: 32736
+  response: 7E80562F4317FE0
+- expected_values:
+    BRONCO_DIST_DTC_CLR: 32737
+  response: 7E80562F4317FE1
+- expected_values:
+    BRONCO_DIST_DTC_CLR: 32738
+  response: 7E80562F4317FE2
+- expected_values:
+    BRONCO_DIST_DTC_CLR: 32739
+  response: 7E80562F4317FE3
+- expected_values:
+    BRONCO_DIST_DTC_CLR: 32740
+  response: 7E80562F4317FE4
+- expected_values:
+    BRONCO_DIST_DTC_CLR: 32741
+  response: 7E80562F4317FE5

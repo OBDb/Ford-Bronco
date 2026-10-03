@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.221E19
+test_cases:
+- expected_values:
+    BRONCO_PCM_CMD_TRANS_GEAR_RATIO: 1.00002
+  response: 7E805621E191000
+- expected_values:
+    BRONCO_PCM_CMD_TRANS_GEAR_RATIO: 1.52102
+  response: 7E805621E191856
+- expected_values:
+    BRONCO_PCM_CMD_TRANS_GEAR_RATIO: 1.76883
+  response: 7E805621E191C4D
+- expected_values:
+    BRONCO_PCM_CMD_TRANS_GEAR_RATIO: 2.14896
+  response: 7E805621E192262
+- expected_values:
+    BRONCO_PCM_CMD_TRANS_GEAR_RATIO: 2.99687
+  response: 7E805621E192FF3
+- expected_values:
+    BRONCO_PCM_CMD_TRANS_GEAR_RATIO: 4.71394
+  response: 7E805621E194B6C
+- expected_values:
+    BRONCO_PCM_CMD_TRANS_GEAR_RATIO: 4.88484
+  response: 7E805621E194E28

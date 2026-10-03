@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2203E8
+test_cases:
+- expected_values:
+    BRONCO_OAR: 0.16113
+  response: 7E8056203E80A50

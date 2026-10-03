@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220307
+test_cases:
+- expected_values:
+    BRONCO_LPFP_DUTY: 20.24231
+  response: 7E80562030719E9
+- expected_values:
+    BRONCO_LPFP_DUTY: 21.09375
+  response: 7E8056203071B00
+- expected_values:
+    BRONCO_LPFP_DUTY: 21.86584
+  response: 7E8056203071BFD
+- expected_values:
+    BRONCO_LPFP_DUTY: 22.43347
+  response: 7E8056203071CB7
