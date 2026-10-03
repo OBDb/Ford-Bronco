@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.220316
+test_cases:
+- expected_values:
+    BRONCO_VCT_INT_DUTY: 0
+  response: '7E8056203160000'
+- expected_values:
+    BRONCO_VCT_INT_DUTY: 31.95496
+  response: 7E80562031628E7
+- expected_values:
+    BRONCO_VCT_INT_DUTY: 32.47986
+  response: '7E8056203162993'
+- expected_values:
+    BRONCO_VCT_INT_DUTY: 32.724
+  response: 7E80562031629E3
+- expected_values:
+    BRONCO_VCT_INT_DUTY: 33.32214
+  response: 7E8056203162AA7
+- expected_values:
+    BRONCO_VCT_INT_DUTY: 34.18884
+  response: 7E8056203162BC3
+- expected_values:
+    BRONCO_VCT_INT_DUTY: 34.61304
+  response: 7E8056203162C4E
+- expected_values:
+    BRONCO_VCT_INT_DUTY: 34.82056
+  response: 7E8056203162C92

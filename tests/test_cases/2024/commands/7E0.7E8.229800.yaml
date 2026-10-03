@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.229800
+test_cases:
+- expected_values:
+    BRONCO_AC_P_SENS_V: 1.17188
+  response: 7E80562980004B0
+- expected_values:
+    BRONCO_AC_P_SENS_V: 1.28906
+  response: '7E8056298000528'
+- expected_values:
+    BRONCO_AC_P_SENS_V: 1.48926
+  response: 7E80562980005F5

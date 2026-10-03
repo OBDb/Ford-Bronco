@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F45E
+test_cases:
+- expected_values:
+    BRONCO_ENG_FUEL_RATE: 0
+  response: 7E80562F45E0000
+- expected_values:
+    BRONCO_ENG_FUEL_RATE: 8.8
+  response: 7E80562F45E00B0
+- expected_values:
+    BRONCO_ENG_FUEL_RATE: 13.9
+  response: 7E80562F45E0116

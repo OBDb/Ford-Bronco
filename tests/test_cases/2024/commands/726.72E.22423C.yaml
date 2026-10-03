@@ -1,0 +1,11 @@
+command_id: 726.72E.22423C
+test_cases:
+- expected_values:
+    BRONCO_VEH_BAT_B_CURRENT: 4.5625
+  response: 72E0562423C0092
+- expected_values:
+    BRONCO_VEH_BAT_B_CURRENT: 7.71875
+  response: 72E0562423C00F7
+- expected_values:
+    BRONCO_VEH_BAT_B_CURRENT: -5.09375
+  response: 72E0562423CFF5D
