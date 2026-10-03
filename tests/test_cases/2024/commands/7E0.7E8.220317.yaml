@@ -7,5 +7,5 @@ test_cases:
     BRONCO_VCT_EXH_DUTY: 28.88489
   response: 7E80562031724F9
 - expected_values:
-    BRONCO_VCT_EXH_DUTY: 38.72681
-  response: '7E8056203173192'
+    BRONCO_VCT_EXH_DUTY: 43.51196
+  response: 7E80562031737B2

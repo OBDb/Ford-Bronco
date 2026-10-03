@@ -4,20 +4,5 @@ test_cases:
     BRONCO_VEH_BAT_CURRENT: -6
   response: 72E0462402B79
 - expected_values:
-    BRONCO_VEH_BAT_CURRENT: -5
-  response: 72E0462402B7A
-- expected_values:
-    BRONCO_VEH_BAT_CURRENT: -4
-  response: 72E0462402B7B
-- expected_values:
-    BRONCO_VEH_BAT_CURRENT: -3
-  response: 72E0462402B7C
-- expected_values:
-    BRONCO_VEH_BAT_CURRENT: 4
-  response: 72E0462402B83
-- expected_values:
-    BRONCO_VEH_BAT_CURRENT: 5
-  response: 72E0462402B84
-- expected_values:
-    BRONCO_VEH_BAT_CURRENT: 7
-  response: 72E0462402B86
+    BRONCO_VEH_BAT_CURRENT: 15
+  response: 72E0462402B8E

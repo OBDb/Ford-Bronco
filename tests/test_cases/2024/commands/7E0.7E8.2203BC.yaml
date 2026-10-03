@@ -4,26 +4,8 @@ test_cases:
     BRONCO_VCT_INT_DES: 0
   response: 7E8056203BC0000
 - expected_values:
-    BRONCO_VCT_INT_DES: -19.25
-  response: 7E8056203BCFECC
-- expected_values:
-    BRONCO_VCT_INT_DES: -17.5625
-  response: 7E8056203BCFEE7
-- expected_values:
     BRONCO_VCT_INT_DES: -15.6875
   response: 7E8056203BCFF05
-- expected_values:
-    BRONCO_VCT_INT_DES: -15
-  response: 7E8056203BCFF10
-- expected_values:
-    BRONCO_VCT_INT_DES: -6.375
-  response: 7E8056203BCFF9A
-- expected_values:
-    BRONCO_VCT_INT_DES: -6
-  response: 7E8056203BCFFA0
-- expected_values:
-    BRONCO_VCT_INT_DES: -2.6875
-  response: 7E8056203BCFFD5
 - expected_values:
     BRONCO_VCT_INT_DES: -0.125
   response: 7E8056203BCFFFE

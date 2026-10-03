@@ -3,3 +3,21 @@ test_cases:
 - expected_values:
     BRONCO_GRILL_SHUT_DC: 0
   response: '7E80462070700'
+- expected_values:
+    BRONCO_GRILL_SHUT_DC: 6.27451
+  response: '7E80462070710'
+- expected_values:
+    BRONCO_GRILL_SHUT_DC: 9.41176
+  response: '7E80462070718'
+- expected_values:
+    BRONCO_GRILL_SHUT_DC: 12.54902
+  response: '7E80462070720'
+- expected_values:
+    BRONCO_GRILL_SHUT_DC: 54.11765
+  response: 7E8046207078A
+- expected_values:
+    BRONCO_GRILL_SHUT_DC: 54.90196
+  response: 7E8046207078C
+- expected_values:
+    BRONCO_GRILL_SHUT_DC: 100
+  response: 7E804620707FF

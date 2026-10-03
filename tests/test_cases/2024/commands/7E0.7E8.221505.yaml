@@ -4,8 +4,8 @@ test_cases:
     BRONCO_VSS_HD: 0
   response: '7E8056215050000'
 - expected_values:
-    BRONCO_VSS_HD: 47.73438
-  response: 7E80562150517DE
+    BRONCO_VSS_HD: 37.96875
+  response: 7E80562150512FC
 - expected_values:
     BRONCO_VSS_HD: 66.29688
   response: '7E8056215052126'

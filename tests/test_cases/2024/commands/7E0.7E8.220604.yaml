@@ -4,8 +4,8 @@ test_cases:
     BRONCO_PCM_A_C_REFRIG_P: 657
   response: '7E8056206040291'
 - expected_values:
-    BRONCO_PCM_A_C_REFRIG_P: 702
-  response: 7E80562060402BE
+    BRONCO_PCM_A_C_REFRIG_P: 735
+  response: 7E80562060402DF
 - expected_values:
     BRONCO_PCM_A_C_REFRIG_P: 777
   response: '7E8056206040309'

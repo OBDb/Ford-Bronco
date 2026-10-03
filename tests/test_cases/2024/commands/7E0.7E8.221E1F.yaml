@@ -17,6 +17,9 @@ test_cases:
   response: 7E804621E1F05
 - expected_values:
     BRONCO_GEAR_ENG: 6
+  response: 7E804621E1F06
+- expected_values:
+    BRONCO_GEAR_ENG: 6
   response: 7E804621E1F07
 - expected_values:
     BRONCO_GEAR_ENG: 6

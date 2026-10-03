@@ -3,3 +3,21 @@ test_cases:
 - expected_values:
     BRONCO_GRILL_SHUTTER_POS: 0
   response: '7E80462058000'
+- expected_values:
+    BRONCO_GRILL_SHUTTER_POS: 4.70588
+  response: 7E8046205800C
+- expected_values:
+    BRONCO_GRILL_SHUTTER_POS: 5.4902
+  response: 7E8046205800E
+- expected_values:
+    BRONCO_GRILL_SHUTTER_POS: 8.62745
+  response: '7E80462058016'
+- expected_values:
+    BRONCO_GRILL_SHUTTER_POS: 54.5098
+  response: 7E8046205808B
+- expected_values:
+    BRONCO_GRILL_SHUTTER_POS: 56.47059
+  response: '7E80462058090'
+- expected_values:
+    BRONCO_GRILL_SHUTTER_POS: 59.21569
+  response: '7E80462058097'

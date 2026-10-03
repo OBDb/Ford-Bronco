@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     BRONCO_BATT_SOC: 54
   response: '72E0462402836'
+- expected_values:
+    BRONCO_BATT_SOC: 55
+  response: '72E0462402837'

@@ -9,3 +9,18 @@ test_cases:
 - expected_values:
     BRONCO_ETC_TRIM_LEARNED: 0.18359
   response: 7E805620338005E
+- expected_values:
+    BRONCO_ETC_TRIM_LEARNED: 0.19531
+  response: '7E8056203380064'
+- expected_values:
+    BRONCO_ETC_TRIM_LEARNED: 0.21484
+  response: 7E805620338006E
+- expected_values:
+    BRONCO_ETC_TRIM_LEARNED: 0.24219
+  response: 7E805620338007C
+- expected_values:
+    BRONCO_ETC_TRIM_LEARNED: 0.24414
+  response: 7E805620338007D
+- expected_values:
+    BRONCO_ETC_TRIM_LEARNED: 0.25
+  response: '7E8056203380080'
