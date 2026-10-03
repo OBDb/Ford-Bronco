@@ -4,5 +4,5 @@ test_cases:
     BRONCO_DIST_DTC_CLR: 8257
   response: 7E80562F4312041
 - expected_values:
-    BRONCO_DIST_DTC_CLR: 8402
-  response: 7E80562F43120D2
+    BRONCO_DIST_DTC_CLR: 8404
+  response: 7E80562F43120D4
