@@ -4,5 +4,5 @@ test_cases:
     BRONCO_FLI: 0
   response: 7E80462F42F00
 - expected_values:
-    BRONCO_FLI: 65.4902
-  response: 7E80462F42FA7
+    BRONCO_FLI: 100
+  response: 7E80462F42FFF
