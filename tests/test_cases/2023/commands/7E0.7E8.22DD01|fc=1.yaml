@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     BRONCO_ODO: 28131
   response: 7E80662DD01006DE3
+- expected_values:
+    BRONCO_ODO: 28164
+  response: 7E80662DD01006E04
