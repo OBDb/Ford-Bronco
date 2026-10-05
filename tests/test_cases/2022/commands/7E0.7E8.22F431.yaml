@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.22F431
 test_cases:
 - expected_values:
+    BRONCO_DIST_DTC_CLR: 26
+  response: 7E80562F431001A
+- expected_values:
     BRONCO_DIST_DTC_CLR: 8257
   response: 7E80562F4312041
 - expected_values:
