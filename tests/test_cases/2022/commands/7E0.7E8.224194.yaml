@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.224194
 test_cases:
 - expected_values:
-    BRONCO_DTE: 72.5
-  response: 7E80562419402D5
+    BRONCO_DTE: 44.8
+  response: 7E80562419401C0
 - expected_values:
-    BRONCO_DTE: 256.1
-  response: 7E8056241940A01
+    BRONCO_DTE: 51.2
+  response: '7E8056241940200'
 - expected_values:
     BRONCO_DTE: 415.1
   response: '7E8056241941037'
