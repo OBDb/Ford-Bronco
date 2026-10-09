@@ -7,5 +7,8 @@ test_cases:
     BRONCO_DIST_DTC_CLR: 248
   response: 7E80562F43100F8
 - expected_values:
+    BRONCO_DIST_DTC_CLR: 269
+  response: 7E80562F431010D
+- expected_values:
     BRONCO_DIST_DTC_CLR: 8257
   response: 7E80562F4312041
