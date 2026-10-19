@@ -10,5 +10,5 @@ test_cases:
     BRONCO_ODO: 111872
   response: 7E80662DD0101B500
 - expected_values:
-    BRONCO_ODO: 112128
-  response: 7E80662DD0101B600
+    BRONCO_ODO: 112384
+  response: 7E80662DD0101B700
