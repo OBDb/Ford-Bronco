@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     BRONCO_BATT_AGE: 250
   response: 72E0562402700FA
+- expected_values:
+    BRONCO_BATT_AGE: 271
+  response: 72E05624027010F
