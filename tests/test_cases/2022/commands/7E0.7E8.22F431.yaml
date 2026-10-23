@@ -4,11 +4,11 @@ test_cases:
     BRONCO_DIST_DTC_CLR: 26
   response: 7E80562F431001A
 - expected_values:
-    BRONCO_DIST_DTC_CLR: 248
-  response: 7E80562F43100F8
+    BRONCO_DIST_DTC_CLR: 1022
+  response: 7E80562F43103FE
 - expected_values:
-    BRONCO_DIST_DTC_CLR: 524
-  response: 7E80562F431020C
+    BRONCO_DIST_DTC_CLR: 1024
+  response: 7E80562F4310400
 - expected_values:
     BRONCO_DIST_DTC_CLR: 8257
   response: 7E80562F4312041
