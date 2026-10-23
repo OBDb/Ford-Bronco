@@ -4,8 +4,8 @@ test_cases:
     BRONCO_ENG_LOAD_ACT: 0
   response: 7E80562F4430000
 - expected_values:
-    BRONCO_ENG_LOAD_ACT: 99.21569
-  response: 7E80562F44300FD
+    BRONCO_ENG_LOAD_ACT: 99.60784
+  response: 7E80562F44300FE
 - expected_values:
     BRONCO_ENG_LOAD_ACT: 100.39216
   response: 7E80562F4430100

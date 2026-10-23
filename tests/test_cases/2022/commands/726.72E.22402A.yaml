@@ -4,5 +4,5 @@ test_cases:
     BRONCO_VEH_BAT_V: 12.1
   response: 72E0462402A7A
 - expected_values:
-    BRONCO_VEH_BAT_V: 14.6
-  response: 72E0462402AAC
+    BRONCO_VEH_BAT_V: 14.7
+  response: 72E0462402AAE
