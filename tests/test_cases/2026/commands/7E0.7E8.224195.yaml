@@ -4,11 +4,11 @@ test_cases:
     BRONCO_DTE_DISP: 293.4
   response: 7E8056241950B76
 - expected_values:
+    BRONCO_DTE_DISP: 435.2
+  response: '7E8056241951100'
+- expected_values:
     BRONCO_DTE_DISP: 511.9
   response: 7E80562419513FF
-- expected_values:
-    BRONCO_DTE_DISP: 563.3
-  response: '7E8056241951601'
 - expected_values:
     BRONCO_DTE_DISP: 589.2
   response: '7E8056241951704'

@@ -4,8 +4,8 @@ test_cases:
     BRONCO_ODO: 11357
   response: 7E80662DD01002C5D
 - expected_values:
-    BRONCO_ODO: 12590
-  response: 7E80662DD0100312E
+    BRONCO_ODO: 12799
+  response: 7E80662DD010031FF
 - expected_values:
-    BRONCO_ODO: 12736
-  response: 7E80662DD010031C0
+    BRONCO_ODO: 12800
+  response: 7E80662DD01003200
