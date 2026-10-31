@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     BRONCO_TOT: 80.1875
   response: 7E805621E1C0503
+- expected_values:
+    BRONCO_TOT: 96.3125
+  response: 7E805621E1C0605
