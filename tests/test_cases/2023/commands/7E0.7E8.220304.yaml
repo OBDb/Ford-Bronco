@@ -7,8 +7,8 @@ test_cases:
     BRONCO_CMD_GEN_V: 13.98852
   response: 7E8056203046FF9
 - expected_values:
-    BRONCO_CMD_GEN_V: 14.13199
-  response: 7E805620304711F
+    BRONCO_CMD_GEN_V: 14.37453
+  response: '7E8056203047310'
 - expected_values:
     BRONCO_CMD_GEN_V: 14.53654
   response: 7E805620304745C
