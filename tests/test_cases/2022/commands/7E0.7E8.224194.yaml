@@ -10,5 +10,5 @@ test_cases:
     BRONCO_DTE: 76.7
   response: 7E80562419402FF
 - expected_values:
-    BRONCO_DTE: 538
-  response: '7E8056241941504'
+    BRONCO_DTE: 537.6
+  response: '7E8056241941500'
