@@ -4,5 +4,5 @@ test_cases:
     BRONCO_TP_RLO: 26.45
   response: '72E056228160211'
 - expected_values:
-    BRONCO_TP_RLO: 36.8
-  response: 72E0562281602E0
+    BRONCO_TP_RLO: 36.85
+  response: 72E0562281602E1
