@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.22033E
 test_cases:
 - expected_values:
+    BRONCO_TIP_ABS: 14.35256
+  response: 7E80562033E32AC
+- expected_values:
     BRONCO_TIP_ABS: 14.4455
   response: 7E80562033E3300
 - expected_values:
