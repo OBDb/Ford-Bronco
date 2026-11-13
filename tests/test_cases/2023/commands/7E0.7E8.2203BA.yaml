@@ -4,5 +4,5 @@ test_cases:
     BRONCO_AAT_V: 2.69795
   response: 7E8056203BA0228
 - expected_values:
-    BRONCO_AAT_V: 2.85435
-  response: 7E8056203BA0248
+    BRONCO_AAT_V: 2.96188
+  response: 7E8056203BA025E

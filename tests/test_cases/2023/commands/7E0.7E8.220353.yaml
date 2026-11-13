@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.220353
 test_cases:
 - expected_values:
+    BRONCO_BARO: 14.4659
+  response: 7E805620353018F
+- expected_values:
     BRONCO_BARO: 14.57466
   response: '7E8056203530192'
 - expected_values:
