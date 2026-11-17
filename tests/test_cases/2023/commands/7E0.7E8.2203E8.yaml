@@ -4,8 +4,8 @@ test_cases:
     BRONCO_OAR: 0.26501
   response: 7E8056203E810F6
 - expected_values:
-    BRONCO_OAR: 0
+    BRONCO_OAR: -0.31268
   response: 7E8056203E8EBFD
 - expected_values:
-    BRONCO_OAR: 0
+    BRONCO_OAR: -0.28973
   response: 7E8056203E8ED75
