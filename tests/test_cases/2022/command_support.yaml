@@ -234,6 +234,11 @@ supported_commands_by_ecu:
   - 010C:RPM
   - 010D:VSS
   - 011F:RUNTM
+  - 0121:MIL_DIST
+  - 0130:WARM_UPS
+  - 0131:CLR_DIST
+  - 0142:VPWR
+  - 0149:APP_D
 unsupported_commands_by_ecu:
   "703":
   - 703.70B.22017C:BRONCO_ACTUATOR_CAM_POS
